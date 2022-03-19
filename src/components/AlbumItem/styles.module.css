@@ -1,0 +1,12 @@
+.AlbumContainer {
+    margin-bottom: 1rem;
+}
+
+.album {
+    color: #FFF;
+    border: .1rem solid #FFF;
+    display: flex;
+    padding: .6rem 1rem;
+    font-weight: 700;
+    font-size: 1.4rem;
+}

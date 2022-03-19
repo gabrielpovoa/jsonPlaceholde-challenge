@@ -1,0 +1,13 @@
+.AlbumArea .links {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.links {
+  border: 0.1rem solid #fff;
+  padding: 1rem 1rem;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
